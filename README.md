@@ -1,12 +1,13 @@
-## Welcome to GitHub Pages
+## Welcome to iOSFire
 
-You can use the [editor on GitHub](https://github.com/SwiftKotlin/iOSFire/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+iOSFire is an example iOS project to integrate with all Firebase features and frameworks.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+iOSFire is also update to latest version of iOS SDK, Swift and latest Firebase features and frameworks. This project is built using Swift and supports only Swift based projects.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Current Versions
+Swift - 4.2
+iOS   - iOS 12
+Firebase
 
 ```markdown
 Syntax highlighted code block
